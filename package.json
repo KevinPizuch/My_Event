@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "light-toast": "^0.2.3",
+    "react-html-parser": "^2.0.2",
+    "react-open-weather": "^0.6.2"
+  }
+}
